@@ -1,4 +1,6 @@
 const config = {
+  STRIPE_KEY: "pk_test_51IdyFlAbm8n3sl2Wk1PwRkTNMfvK2TyAJ5XM4CCIW3Wa29YRZeNl0Rsre2gCLm9ePmDk3h9KttLpwEYChQ8J4WF700rmC83UvO",
+  MAX_ATTACHMENT_SIZE: 5000000,
   s3: {
     REGION: "us-east-1",
     BUCKET: "firsou-notes-app-upload",
